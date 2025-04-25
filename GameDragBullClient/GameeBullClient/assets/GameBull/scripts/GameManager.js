@@ -94,8 +94,8 @@ var GameManager = cc.Class({
 
             this.horsesPulling = this.findHorsesNearestCenter(HorseGameModel.numberRopeCurrent);
             this.scheduleOnce(this.handlePullingHorses.bind(this),1.1);
-            this.scheduleOnce(this.handleWinloseHorses.bind(this),3);
-            this.scheduleOnce(this.newGame.bind(this),10);
+            this.scheduleOnce(this.handleWinloseHorses.bind(this),5);
+            this.scheduleOnce(this.newGame.bind(this),14);
         });
     },
     

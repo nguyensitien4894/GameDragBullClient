@@ -64,12 +64,12 @@ cc.Class({
         
         cc.Tween.stopAllByTarget(this.spine.node);
         cc.tween(this.spine.node)
-        .to(2,{position:new cc.Vec2(this.spine.node.position.x,0)})
+        .to(4,{position:new cc.Vec2(this.spine.node.position.x,0)})
         .start();
 
         cc.Tween.stopAllByTarget(this.node);
         cc.tween(this.node)
-        .to(2,{scale: 0.8})
+        .to(4,{scale: 0.8})
         .call(()=>{
             this.node.scale = 1;
             this.spine.skeletonData = this.horseSkeletonData[this.id-1];
@@ -86,12 +86,12 @@ cc.Class({
 
         cc.Tween.stopAllByTarget(this.spine.node);
         cc.tween(this.spine.node)
-        .to(2,{position:new cc.Vec2(this.spine.node.position.x,this.spine.node.position.y-100)})
+        .to(4,{position:new cc.Vec2(this.spine.node.position.x,this.spine.node.position.y-100)})
         .start();
 
         cc.Tween.stopAllByTarget(this.node);
         cc.tween(this.node)
-        .to(2,{scale: 0.9})
+        .to(4,{scale: 0.9})
         .start();
 
         console.error("Checkinggame pulling");
