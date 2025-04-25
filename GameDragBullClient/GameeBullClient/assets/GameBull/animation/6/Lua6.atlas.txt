@@ -1,0 +1,209 @@
+
+Lua6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 344
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+Bung
+  rotate: false
+  xy: 198, 189
+  size: 111, 54
+  orig: 111, 54
+  offset: 0, 0
+  index: -1
+Chan1
+  rotate: false
+  xy: 2, 41
+  size: 61, 149
+  orig: 61, 149
+  offset: 0, 0
+  index: -1
+Chan111
+  rotate: true
+  xy: 280, 447
+  size: 61, 149
+  orig: 61, 149
+  offset: 0, 0
+  index: -1
+Chan2
+  rotate: false
+  xy: 141, 201
+  size: 55, 141
+  orig: 55, 141
+  offset: 0, 0
+  index: -1
+Chan22
+  rotate: false
+  xy: 126, 49
+  size: 54, 141
+  orig: 54, 141
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 198, 245
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+Ear2
+  rotate: true
+  xy: 323, 73
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 247, 74
+  size: 74, 113
+  orig: 74, 113
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: true
+  xy: 300, 253
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+Mai
+  rotate: false
+  xy: 2, 3
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Mai2
+  rotate: false
+  xy: 430, 345
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Matnham2
+  rotate: false
+  xy: 404, 324
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Mieng
+  rotate: false
+  xy: 404, 258
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 404, 282
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 167, 348
+  size: 133, 45
+  orig: 133, 45
+  offset: 0, 0
+  index: -1
+day_co
+  rotate: true
+  xy: 431, 399
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+day_dut
+  rotate: true
+  xy: 311, 195
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 490, 361
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 65, 52
+  size: 59, 138
+  orig: 59, 138
+  offset: 0, 0
+  index: -1
+foot11
+  rotate: false
+  xy: 409, 75
+  size: 55, 118
+  orig: 55, 118
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: true
+  xy: 302, 345
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+foot22
+  rotate: false
+  xy: 182, 61
+  size: 63, 126
+  orig: 63, 126
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 323, 92
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 280, 400
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1
+tai1
+  rotate: false
+  xy: 447, 284
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+tai2
+  rotate: false
+  xy: 412, 218
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 167, 395
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 192
+  size: 137, 150
+  orig: 137, 150
+  offset: 0, 0
+  index: -1

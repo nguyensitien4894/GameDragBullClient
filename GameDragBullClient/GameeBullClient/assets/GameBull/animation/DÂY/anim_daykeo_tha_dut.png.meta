@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d201c1fe-25a3-42ef-81e5-07d054e88c63",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "anim_daykeo_tha_dut": {
+      "ver": "1.0.6",
+      "uuid": "6ad8b741-ee7f-4959-b442-11b5d78ac2dc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d201c1fe-25a3-42ef-81e5-07d054e88c63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -34.5,
+      "offsetY": 5.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 949,
+      "height": 1007,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
