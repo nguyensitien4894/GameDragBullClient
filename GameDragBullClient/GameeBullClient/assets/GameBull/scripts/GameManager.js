@@ -185,6 +185,7 @@ var GameManager = cc.Class({
 
 
     onClickDecreaseNumberRope(){
+        if(this.isThrowing == true) return;
         HorseGameModel.numberRopeCurrent--;
         if(HorseGameModel.numberRopeCurrent < HorseGameConfig.numberRopeMin){
             HorseGameModel.numberRopeCurrent = HorseGameConfig.numberRopeMin;
@@ -194,6 +195,7 @@ var GameManager = cc.Class({
     },
 
     onClicIncreaseNumberRope(){
+        if(this.isThrowing == true) return;
         HorseGameModel.numberRopeCurrent++;
         if(HorseGameModel.numberRopeCurrent > HorseGameConfig.numberRopeMax){
             HorseGameModel.numberRopeCurrent = HorseGameConfig.numberRopeMax;
@@ -203,6 +205,7 @@ var GameManager = cc.Class({
     },
 
     onClickDecreaseNumberBet(){
+        if(this.isThrowing == true) return;
         HorseGameModel.numberBetCurrent -= HorseGameConfig.numberBetStep;
         if(HorseGameModel.numberBetCurrent < HorseGameConfig.numberBetMin){
             HorseGameModel.numberBetCurrent = HorseGameConfig.numberBetMin;
@@ -211,6 +214,7 @@ var GameManager = cc.Class({
     },
 
     onClickIncreaseNumberBet(){
+        if(this.isThrowing == true) return;
         HorseGameModel.numberBetCurrent += HorseGameConfig.numberBetStep;
         if(HorseGameModel.numberBetCurrent > HorseGameConfig.numberBetMax){
             HorseGameModel.numberBetCurrent = HorseGameConfig.numberBetMax;
