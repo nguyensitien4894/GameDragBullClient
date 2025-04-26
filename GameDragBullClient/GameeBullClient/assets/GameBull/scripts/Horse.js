@@ -84,6 +84,10 @@ cc.Class({
         this.spine.setAnimation(0,"BiKeo",false);
         this.node.scale = 0.8;
 
+        this.spine.skeletonData = this.horseSkeletonData[this.id-1];
+        this.spine.addAnimation(1,"PhanKhang",true);
+        this.node.scale = 0.8;
+
         cc.Tween.stopAllByTarget(this.spine.node);
         cc.tween(this.spine.node)
         .to(4,{position:new cc.Vec2(this.spine.node.position.x,this.spine.node.position.y-100)})
